@@ -18,9 +18,9 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![](walkthrough.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
